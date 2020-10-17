@@ -1,5 +1,5 @@
 # Notes
-A simple cmd client to add, list, read and remove notes from json database. 
+A nodejs program to add, list, read and remove notes from json database. 
 ----------------------------------------------------------------------------
 In order to start : <code>npm install</code> <br />
 Initiate the app.js by : <code>node app.js --help</code> <br />
