@@ -1,0 +1,18 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "a simple note utility to save, read, list and remove notes from json database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notes",
+    "todo"
+  ],
+  "author": "rahul kumar",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.1.0"
+  }
+}
