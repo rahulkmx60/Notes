@@ -82,8 +82,3 @@ else if(command === 'remove'){
 else  // display if no command is selcted or recognized
 console.log('Command not recognised');
 /////////////////= FUNCTION DONE =/////////////////
-
-
-
-// 14:19 15 Listing Notes
-// 14:45 16 Advanced Args
