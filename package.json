@@ -1,7 +1,7 @@
 {
   "name": "notes",
   "version": "1.0.0",
-  "description": "a simple note utility to save, read, list and remove notes from json database",
+  "description": "A Node.js program to add, list, read and remove notes from JSON database.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
